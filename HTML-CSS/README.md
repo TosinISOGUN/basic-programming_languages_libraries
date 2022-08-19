@@ -11,7 +11,17 @@ HTML has a lot of use cases, namely:
 
 Here's how to write a simple "Hello, World" program in HTML.
 ```HTML
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- head definitions go here -->
+        <title> This is a program to print "Hello, World" </title>
+    </head>
+    <body>
+        <!-- the content goes here -->
+        <p>"Hello, World"</p>
+    </body>
+</html>
 ```
 
 [Download Complete HTML cheat sheet](https://app.monstercampaigns.com/c/kdild9ztbnxhmfnneipl/)

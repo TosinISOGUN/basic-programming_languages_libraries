@@ -2,7 +2,7 @@
 <img src="https://coincentral.com/wp-content/uploads/2018/08/Coincentral-Asset-768x384.png" />
 
 ## Synopsis
-The goal of this repository is to make it an interactive and open-source library/documentation.
+The goal of this repository is to make it an interactive, user-friendly and open-source library/documentation for people who are new to programming and maybe even for those who has been long-timers. :)
 
 ## Description
 This repository contains `basic syntax` that cuts across various programming languages ranging from `HTML & CSS`, `C++`, `C`, `PHP`, `JAVA` and so on. On the long run, this repository will surely become an **open source library/documentation** where I and fellow programmers can make *references* to.

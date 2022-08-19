@@ -23,7 +23,7 @@ Some of the programming languages tracks covered in this open-source documentati
 **and lots more coming soon!**
 
 ## Credits
-- [Chidiagb](https://github.com/Chidiagb)
+- Chidiebere Agbo - [Chidiagb](https://github.com/Chidiagb)
 > Other collaborators are acknowledged within the repository.
 
 Ofcourse, if you are interested in adding relevant programming related informations to this repository, feel free to submit a pull request as the goal is to make this open-source.

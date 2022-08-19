@@ -1,5 +1,5 @@
 # BASIC PROGRAMMING LANGUAGES LIBRARY
-<img scr="https://coincentral.com/the-ultimate-guide-to-blockchain-programming-for-new-developers/" />
+<img src="https://coincentral.com/wp-content/uploads/2018/08/Coincentral-Asset-768x384.png" />
 
 ## Synopsis
 The goal of this repository is to make it an interactive and open-source library/documentation.
@@ -10,7 +10,7 @@ This repository contains `basic syntax` that cuts across various programming lan
 Ofcourse, if you are interested in adding relevant programming related informations to this repository, feel free to submit a pull request as the goal is to make this open-source.
 
 ## Table of Contents
-<img scr="https://www.simplilearn.com/best-programming-languages-start-learning-today-article" width="" height="" />
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg" width="" height="" />
 
 Some of the programming languages tracks covered in this open-source documentation includes;
 - HTML/CSS

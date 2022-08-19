@@ -10,6 +10,7 @@ HTML has a lot of use cases, namely:
 - **Web documentation:** `HTML` makes it possible to organize and format documents, similarly to Microsoft Word.
 
 ## Your first HTML Page
+Let's start by creating a simple page that contains the phrase "Hello, World!" in the body. The page will also have a title - that thing that shows up in the title of the tab in your browser. The `<title>` element defines the title of the HTML page.
 
 Here's how to write a simple "Hello, World" program in HTML.
 ```HTML
@@ -25,7 +26,6 @@ Here's how to write a simple "Hello, World" program in HTML.
     </body>
 </html>
 ```
-Let's start by creating a simple page that contains the phrase "Hello, World!" in the body. The page will also have a title - that thing that shows up in the title of the tab in your browser. The `<title>` element defines the title of the HTML page.
 
 The `<!DOCTYPE html>` tag defines the document type that the browser is going to render. This is used for legacy reasons. If you want to get to the latest version of HTML (HTML5) then it's recommended to use this tag.
 

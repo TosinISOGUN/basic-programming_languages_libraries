@@ -85,7 +85,7 @@ You will inevitably find the `C++` language in action no matter which way you tu
 
 Let’s look at some areas that rely heavily on the `C++` language.
 
-| Heading | Application |
+| Areas | Application |
 | --- | --- |
 | **Banking Applications** | Financial institutions turn to C++ for help with back-end programming. Banking applications process millions of transactions every day, thus requiring high concurrency and low latency support; C++ automatically becomes the preferred choice. |
 | **Browsers** | Browser rendering engines need speed, and C++ delivers this in spades. Users want their content to appear quickly and with minimal lag, so these low-latency systems turn to C++ as their go-to programming language. |

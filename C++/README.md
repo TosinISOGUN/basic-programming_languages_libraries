@@ -108,7 +108,9 @@ Here are some organizations and companies that employ the C++ language:
 - Spotify
 
 ## Are You Interested in Becoming a Programmer or Developer?
+<img src="https://cdn.dubootcamp.com/wp-content/uploads/sites/66/2020/05/shutterstock_753780223-850x412.jpg"  />
 So, now we know that C++ is an extremely popular programming language, the foundation of much of our digital world. But, we also know there is a constant need for more programmers and developers. So, if you want a career in software development, `Simplilearn` can help you reach your goal and get you into an exciting, rewarding position that’s constantly in high demand.
+
 
 For instance, check out Simplilearn’s [Full Stack Java Developer](https://www.simplilearn.com/java-full-stack-developer-certification-training-course) course. This program is tailored to give you a grasp of front-end, middleware, and back-end Java web developer technologies. Additionally, you will learn how to build an end-to-end application, test and deploy code, store data using MongoDB, and other valuable skills.
 

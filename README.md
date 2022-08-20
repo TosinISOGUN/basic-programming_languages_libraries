@@ -14,11 +14,11 @@ This repository contains `basic syntax` that cuts across various programming lan
 
 Some of the programming languages tracks covered in this open-source documentation includes;
 - [HTML/CSS](https://github.com/TosinISOGUN/basic-programming_languages_libraries/tree/main/HTML-CSS)
-- C
-- C++
+- [C++](https://github.com/TosinISOGUN/basic-programming_languages_libraries/tree/main/C%2B%2B)
 - PHP
 - JAVASCRIPT
 - PYTHON
+- C
 
 **and lots more coming soon!**
 

@@ -1,5 +1,5 @@
 # Welcome to C++
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg" width="" height="" />
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg" width="500" height="300" />
 
 ## What Is C++?
 [`C++`](https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-basics) is one of the most well-known and well-used [programming languages](https://www.simplilearn.com/tutorials/programming-tutorial/first-programming-language) today, used by more than four million programmers worldwide. The language made its debut in 1985 as an iteration of the [C programming language](https://www.simplilearn.com/c-programming-article). It began as an extension of C but evolved into a different language with distinctive characteristics and features.
@@ -31,7 +31,7 @@ int main() {
 > **Hello, World!**
 
 ### Code Breakdown
-1. `// Your First C++ Program`
+1. `// My First C++ Program`
 
 In C++, any line starting with `//` is a comment. Comments are intended for the person reading the code to better understand the functionality of the program. It is completely ignored by the C++ compiler.
 
@@ -88,22 +88,10 @@ Let’s look at some areas that rely heavily on the `C++` language.
 | Heading | Application |
 | --- | --- |
 | **Banking Applications** | Financial institutions turn to C++ for help with back-end programming. Banking applications process millions of transactions every day, thus requiring high concurrency and low latency support; C++ automatically becomes the preferred choice. |
-
-- **Browsers**
-
-Browser rendering engines need speed, and C++ delivers this in spades. Users want their content to appear quickly and with minimal lag, so these low-latency systems turn to C++ as their go-to programming language.
-
-- **Cloud/Distributed Systems**
-
-Cloud storage and distributed systems turn to C++ because they are compatible with various machines and connect exceptionally well with the hardware. In addition, the C++ language provides much-needed high concurrency and load tolerance.
-
-- **Operating Systems**
-
-Windows, Linux, and macOS are all programmed in C++, making the language the foundation of a good amount of our digital world. It’s not overstating matters to say that C++ is the backbone of the Internet Age.
-
-- **Databases**
-
-[MySQL and Postgres](https://www.simplilearn.com/tutorials/sql-tutorial/postgresql-vs-mysql), two of today’s most widely-used databases, are written in [C++ and C](https://www.simplilearn.com/tutorials/cpp-tutorial/difference-between-c-and-cpp), the latter being C++’s predecessor. These databases, in turn, are used in many of today’s most heavily-used applications, like YouTube, for example.
+| **Browsers** | Browser rendering engines need speed, and C++ delivers this in spades. Users want their content to appear quickly and with minimal lag, so these low-latency systems turn to C++ as their go-to programming language. |
+| **Cloud/Distributed Systems** | Cloud storage and distributed systems turn to C++ because they are compatible with various machines and connect exceptionally well with the hardware. In addition, the C++ language provides much-needed high concurrency and load tolerance. |
+| **Operating Systems** | Windows, Linux, and macOS are all programmed in C++, making the language the foundation of a good amount of our digital world. It’s not overstating matters to say that C++ is the backbone of the Internet Age. |
+| **Databases** | [MySQL and Postgres](https://www.simplilearn.com/tutorials/sql-tutorial/postgresql-vs-mysql), two of today’s most widely-used databases, are written in [C++ and C](https://www.simplilearn.com/tutorials/cpp-tutorial/difference-between-c-and-cpp), the latter being C++’s predecessor. These databases, in turn, are used in many of today’s most heavily-used applications, like YouTube, for example. |
 
 Here are some organizations and companies that employ the C++ language:
 - Adobe
@@ -115,6 +103,11 @@ Here are some organizations and companies that employ the C++ language:
 - Microsoft
 - YouTube
 - Spotify
+
+## Are You Interested in Becoming a Programmer or Developer?
+So, now we know that C++ is an extremely popular programming language, the foundation of much of our digital world. But, we also know there is a constant need for more programmers and developers. So, if you want a career in software development, `Simplilearn` can help you reach your goal and get you into an exciting, rewarding position that’s constantly in high demand.
+
+For instance, check out Simplilearn’s [Full Stack Java Developer](https://www.simplilearn.com/java-full-stack-developer-certification-training-course) course. This program is tailored to give you a grasp of front-end, middleware, and back-end Java web developer technologies. Additionally, you will learn how to build an end-to-end application, test and deploy code, store data using MongoDB, and other valuable skills.
 
 ## Credits
 [Resources](https://www.simplilearn.com/what-is-cpp-programming-article)

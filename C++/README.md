@@ -1,5 +1,5 @@
 # Welcome to C++
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg" width="500" height="300" />
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg" width="800" height="300" />
 
 ## What Is C++?
 [`C++`](https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-basics) is one of the most well-known and well-used [programming languages](https://www.simplilearn.com/tutorials/programming-tutorial/first-programming-language) today, used by more than four million programmers worldwide. The language made its debut in 1985 as an iteration of the [C programming language](https://www.simplilearn.com/c-programming-article). It began as an extension of C but evolved into a different language with distinctive characteristics and features.

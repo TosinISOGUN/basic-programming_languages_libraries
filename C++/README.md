@@ -92,6 +92,9 @@ Let’s look at some areas that rely heavily on the `C++` language.
 | **Cloud/Distributed Systems** | Cloud storage and distributed systems turn to C++ because they are compatible with various machines and connect exceptionally well with the hardware. In addition, the C++ language provides much-needed high concurrency and load tolerance. |
 | **Operating Systems** | Windows, Linux, and macOS are all programmed in C++, making the language the foundation of a good amount of our digital world. It’s not overstating matters to say that C++ is the backbone of the Internet Age. |
 | **Databases** | [MySQL and Postgres](https://www.simplilearn.com/tutorials/sql-tutorial/postgresql-vs-mysql), two of today’s most widely-used databases, are written in [C++ and C](https://www.simplilearn.com/tutorials/cpp-tutorial/difference-between-c-and-cpp), the latter being C++’s predecessor. These databases, in turn, are used in many of today’s most heavily-used applications, like YouTube, for example. |
+| **Telephone Switches** | C++’s speed makes it the perfect choice for programming devices such as telephone switches, routers, and even space probes. |
+| **Libraries** | Machine learning libraries such as TensorFlow require high-performance computations, which C++ is ideally suited for. |
+| **Embedded Systems** | Embedded systems (e.g., digital cameras, digital wristwatches, MP3 players, calculators) use C++ as their primary programming language because it’s closer to the hardware level. |
 
 Here are some organizations and companies that employ the C++ language:
 - Adobe

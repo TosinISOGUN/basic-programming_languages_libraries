@@ -22,7 +22,8 @@ Some of the programming languages tracks covered in this open-source documentati
 
 **and lots more coming soon!**
 
-## Credits
+## Authors & Credits
+- Oluwatomisin ISOGUN - [TosinISOGUN](https://github.com/TosinISOGUN)
 - Chidiebere Agbo - [Chidiagb](https://github.com/Chidiagb)
 > Other collaborators are acknowledged within the repository.
 
